@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=TxMIPcy1YY0"><img width="140px" src="https://i.ytimg.com/vi/TxMIPcy1YY0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=EPfhTksHiug"><img width="140px" src="https://i.ytimg.com/vi/EPfhTksHiug/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TxMIPcy1YY0">Amazon Price Tracking App with Python (Lang TR)</a><br/>Dec 4, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=xES1uBl2_Ek"><img width="140px" src="https://i.ytimg.com/vi/xES1uBl2_Ek/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xES1uBl2_Ek">Web Development with Vue (Lang TR)</a><br/>May 28, 2020</td></tr>
